@@ -25,9 +25,9 @@ For quick and easy setup for this project, you will need to install a LAMP Stack
     c. Click the import tab <br/>
     d. Browse to the `repo_folder/app/database/wms_db/wms_db.sql` and import the `wms_db.sql` file. This will create tables for the `wms_db` with sample data. <br/>
     e. create a new database user with rights to perform Create Read Update Delete operations on `wms_db` database. <br/>
-       a. User name: `wms_user` <br/>
-       b. Host name: `local` or `localhost` <br/>
-       c. Password: `wms_password` <br/>
-       d. Authentication Plugin: `Native MySQL authentication` <br/>
+       &nbsp;&nbsp; a. User name: `wms_user` <br/>
+       &nbsp;&nbsp; b. Host name: `local` or `localhost` <br/>
+       &nbsp;&nbsp; c. Password: `wms_password` <br/>
+       &nbsp;&nbsp; d. Authentication Plugin: `Native MySQL authentication` <br/>
        
  6. Navigate to the app in your browser (Instructions may be different for each LAMP Stack).
