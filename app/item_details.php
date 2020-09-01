@@ -108,7 +108,7 @@
                                                 <option selected value="<?php if(isset($row['category'])){echo($row['category']);}?>"><?php if(isset($row['category'])){echo($row['category']);}?></option>
                                                 <option value="clothing">Clothing</option>
                                                 <option value="household">Household</option>
-                                                <option value="stationary">Stationary</option>
+                                                <option value="stationery">Stationery</option>
                                                 <option value="electronics">Electronics</option>
                                                 <option value="sports">Sports</option>
                                                 </select>
