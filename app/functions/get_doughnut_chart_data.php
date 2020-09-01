@@ -9,7 +9,7 @@ if (mysqli_connect_errno()) {
     exit();
 } 
 // define an array to store the list of categories
-$categories = array('clothing', 'household', 'stationary', 'electronics', 'sports');
+$categories = array('clothing', 'household', 'stationery', 'electronics', 'sports');
 
 // loop over array of categories
 $count_array = array();

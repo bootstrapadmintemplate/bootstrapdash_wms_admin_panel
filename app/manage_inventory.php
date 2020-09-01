@@ -321,7 +321,7 @@ if (isset($result)) {
                         <select name="item_category" class="form-control" required>
                           <option value="clothing">Clothing</option>
                           <option value="household">Household</option>
-                          <option value="stationary">Stationary</option>
+                          <option value="stationery">Stationery</option>
                           <option value="electronics">Electronics</option>
                           <option value="sports">Sports</option>
                         </select>

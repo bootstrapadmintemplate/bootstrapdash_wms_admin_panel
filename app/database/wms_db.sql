@@ -38,7 +38,7 @@ CREATE TABLE `distribute_receive` (
 
 INSERT INTO `distribute_receive` (`category`, `distribute_total`, `receive_total`) VALUES
 ('electronics', 32, 20),
-('stationary', 5, 17),
+('stationery', 5, 17),
 ('sports', 45, 171),
 ('household', 6, 19),
 ('clothing', 3, 13);
@@ -66,11 +66,11 @@ CREATE TABLE `inventory_items` (
 INSERT INTO `inventory_items` (`id`, `upc`, `item_name`, `item_desc`, `category`, `quantity`, `last_modified`) VALUES
 (71, '466867867', 'Desk Lamp', 'Remax LED Desk Light and Stand', 'electronics', 75, '2020-08-31 13:53:41'),
 (73, '1234', 'Headphones', 'Wireless Headphones', 'electronics', 0, '2020-08-31 11:30:48'),
-(74, '564', 'Book', 'Art Book', 'stationary', 3, '2020-08-30 17:35:57'),
+(74, '564', 'Book', 'Art Book', 'stationery', 3, '2020-08-30 17:35:57'),
 (75, '678', 'Demin Jeans', 'Mens Demin Jeans', 'clothing', 13, '2020-08-31 18:38:07'),
 (76, '789', 'Tea Cups', 'Just a tea&#39;s cup', 'household', 33, '2020-08-30 21:21:27'),
 (77, '456', 'Nike Socks', 'Nike Basketball socks', 'sports', 165, '2020-08-31 18:38:43'),
-(78, '678', 'Pilot Pens', 'Gel Ink Pilot Pens', 'stationary', -1, '2020-08-31 18:31:21'),
+(78, '678', 'Pilot Pens', 'Gel Ink Pilot Pens', 'stationery', -1, '2020-08-31 18:31:21'),
 (80, '2016', 'Makeup Brush', 'Morphe Makeup Brushes SM', 'household', 2, '2020-08-31 10:50:51');
 
 --
