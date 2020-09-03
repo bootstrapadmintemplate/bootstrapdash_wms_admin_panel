@@ -30,4 +30,4 @@ For quick and easy setup for this project, you will need to install a LAMP Stack
        &nbsp;&nbsp; c. Password: `wms_password` <br/>
        &nbsp;&nbsp; d. Authentication Plugin: `Native MySQL authentication` <br/>
        
- 6. Navigate to the app in your browser (Instructions may be different for each LAMP Stack).
+ 6. Navigate to the app folder in your browser (Instructions may be different for LAMP Stack you choose).
